@@ -1,6 +1,6 @@
 # 🌦️ weather-frontend-m6
 
-Aplicación de clima desarrollada en **HTML, CSS, Sass y Javascript** que permite consultar (mediante plantillas) el estado actual 
+Aplicación de clima desarrollada en **HTML, CSS, Javascript y Vue** que permite consultar (mediante plantillas) el estado actual 
 y el pronóstico del tiempo en diferentes ciudades, usa una base de datos de ejemplo usando json server desde donde se obtienen los datos. 
 
 La sección **Estadísticas de la Semana** busca la temperatura miníma y máxima de la semana, así como el promedio y el estado general.
