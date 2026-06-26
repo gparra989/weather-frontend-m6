@@ -21,7 +21,7 @@ Contamos con 5 componentes, 2 principales: HomeComponent y DetalleComponent, y 3
 ---
 
 ## 🛠️ Tecnologías utilizadas
-- **Frontend:** HTML, CSS, BEM, Sass, JavaScript.
+- **Frontend:** HTML, CSS, BEM, Vue, JavaScript.
 - **Extras:** Bootstrap 5.
 
 ---
