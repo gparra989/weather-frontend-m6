@@ -1,0 +1,164 @@
+{
+  "ciudades": [
+    {
+      "id": 1,
+      "nombre": "Santiago",
+      "tempMax": 25,
+      "tempMin": 15,
+      "estadoActual": "Soleado",
+      "pronosticoSemanal": [
+        {"dia": "Lunes", "min": 15, "max": 25, "estado": "Soleado"},
+        {"dia": "Martes", "min": 12, "max": 20, "estado": "Lluvias ligeras"},
+        {"dia": "Miércoles", "min": 14, "max": 22, "estado": "Parcialmente nublado"},
+        {"dia": "Jueves", "min": 11, "max": 18, "estado": "Tormentas"},
+        {"dia": "Viernes", "min": 13, "max": 21, "estado": "Nublado"},
+        {"dia": "Sábado", "min": 17, "max": 28, "estado": "Caluroso"},
+        {"dia": "Domingo", "min": 16, "max": 24, "estado": "Parcialmente soleado"}
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Valparaiso",
+      "tempMax": 20,
+      "tempMin": 12,
+      "estadoActual": "Lluvias ligeras",
+      "pronosticoSemanal": [
+        {"dia": "Lunes", "min": 15, "max": 25, "estado": "Soleado"},
+        {"dia": "Martes", "min": 12, "max": 20, "estado": "Lluvias ligeras"},
+        {"dia": "Miércoles", "min": 14, "max": 22, "estado": "Parcialmente nublado"},
+        {"dia": "Jueves", "min": 11, "max": 18, "estado": "Tormentas"},
+        {"dia": "Viernes", "min": 13, "max": 21, "estado": "Nublado"},
+        {"dia": "Sábado", "min": 17, "max": 28, "estado": "Caluroso"},
+        {"dia": "Domingo", "min": 16, "max": 24, "estado": "Parcialmente soleado"}
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Antofagasta",
+      "tempMax": 22,
+      "tempMin": 14,
+      "estadoActual": "Parcialmente nublado",
+      "pronosticoSemanal": [
+        {"dia": "Lunes", "min": 15, "max": 25, "estado": "Soleado"},
+        {"dia": "Martes", "min": 12, "max": 20, "estado": "Lluvias ligeras"},
+        {"dia": "Miércoles", "min": 14, "max": 22, "estado": "Parcialmente nublado"},
+        {"dia": "Jueves", "min": 11, "max": 18, "estado": "Tormentas"},
+        {"dia": "Viernes", "min": 13, "max": 21, "estado": "Nublado"},
+        {"dia": "Sábado", "min": 17, "max": 28, "estado": "Caluroso"},
+        {"dia": "Domingo", "min": 16, "max": 24, "estado": "Parcialmente soleado"}
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Arica",
+      "tempMax": 18,
+      "tempMin": 11,
+      "estadoActual": "Tormentas",
+      "pronosticoSemanal": [
+        {"dia": "Lunes", "min": 15, "max": 25, "estado": "Soleado"},
+        {"dia": "Martes", "min": 12, "max": 20, "estado": "Lluvias ligeras"},
+        {"dia": "Miércoles", "min": 14, "max": 22, "estado": "Parcialmente nublado"},
+        {"dia": "Jueves", "min": 11, "max": 18, "estado": "Tormentas"},
+        {"dia": "Viernes", "min": 13, "max": 21, "estado": "Nublado"},
+        {"dia": "Sábado", "min": 17, "max": 28, "estado": "Caluroso"},
+        {"dia": "Domingo", "min": 16, "max": 24, "estado": "Parcialmente soleado"}
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Concepción",
+      "tempMax": 21,
+      "tempMin": 13,
+      "estadoActual": "Nublado",
+      "pronosticoSemanal": [
+        {"dia": "Lunes", "min": 15, "max": 25, "estado": "Soleado"},
+        {"dia": "Martes", "min": 12, "max": 20, "estado": "Lluvias ligeras"},
+        {"dia": "Miércoles", "min": 14, "max": 22, "estado": "Parcialmente nublado"},
+        {"dia": "Jueves", "min": 11, "max": 18, "estado": "Tormentas"},
+        {"dia": "Viernes", "min": 13, "max": 21, "estado": "Nublado"},
+        {"dia": "Sábado", "min": 17, "max": 28, "estado": "Caluroso"},
+        {"dia": "Domingo", "min": 16, "max": 24, "estado": "Parcialmente soleado"}
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Iquique",
+      "tempMax": 28,
+      "tempMin": 17,
+      "estadoActual": "Caluroso",
+      "pronosticoSemanal": [
+        {"dia": "Lunes", "min": 15, "max": 25, "estado": "Soleado"},
+        {"dia": "Martes", "min": 12, "max": 20, "estado": "Lluvias ligeras"},
+        {"dia": "Miércoles", "min": 14, "max": 22, "estado": "Parcialmente nublado"},
+        {"dia": "Jueves", "min": 11, "max": 18, "estado": "Tormentas"},
+        {"dia": "Viernes", "min": 13, "max": 21, "estado": "Nublado"},
+        {"dia": "Sábado", "min": 17, "max": 28, "estado": "Caluroso"},
+        {"dia": "Domingo", "min": 16, "max": 24, "estado": "Parcialmente soleado"}
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "La Serena",
+      "tempMax": 24,
+      "tempMin": 16,
+      "estadoActual": "Parcialmente soleado",
+      "pronosticoSemanal": [
+        {"dia": "Lunes", "min": 15, "max": 25, "estado": "Soleado"},
+        {"dia": "Martes", "min": 12, "max": 20, "estado": "Lluvias ligeras"},
+        {"dia": "Miércoles", "min": 14, "max": 22, "estado": "Parcialmente nublado"},
+        {"dia": "Jueves", "min": 11, "max": 18, "estado": "Tormentas"},
+        {"dia": "Viernes", "min": 13, "max": 21, "estado": "Nublado"},
+        {"dia": "Sábado", "min": 17, "max": 28, "estado": "Caluroso"},
+        {"dia": "Domingo", "min": 16, "max": 24, "estado": "Parcialmente soleado"}
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "Temuco",
+      "tempMax": 25,
+      "tempMin": 15,
+      "estadoActual": "Soleado",
+      "pronosticoSemanal": [
+        {"dia": "Lunes", "min": 15, "max": 25, "estado": "Soleado"},
+        {"dia": "Martes", "min": 12, "max": 20, "estado": "Lluvias ligeras"},
+        {"dia": "Miércoles", "min": 14, "max": 22, "estado": "Parcialmente nublado"},
+        {"dia": "Jueves", "min": 11, "max": 18, "estado": "Tormentas"},
+        {"dia": "Viernes", "min": 13, "max": 21, "estado": "Nublado"},
+        {"dia": "Sábado", "min": 17, "max": 28, "estado": "Caluroso"},
+        {"dia": "Domingo", "min": 16, "max": 24, "estado": "Parcialmente soleado"}
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "Puerto Montt",
+      "tempMax": 21,
+      "tempMin": 13,
+      "estadoActual": "Nublado",
+      "pronosticoSemanal": [
+        {"dia": "Lunes", "min": 15, "max": 25, "estado": "Soleado"},
+        {"dia": "Martes", "min": 12, "max": 20, "estado": "Lluvias ligeras"},
+        {"dia": "Miércoles", "min": 14, "max": 22, "estado": "Parcialmente nublado"},
+        {"dia": "Jueves", "min": 11, "max": 18, "estado": "Tormentas"},
+        {"dia": "Viernes", "min": 13, "max": 21, "estado": "Nublado"},
+        {"dia": "Sábado", "min": 17, "max": 28, "estado": "Caluroso"},
+        {"dia": "Domingo", "min": 16, "max": 24, "estado": "Parcialmente soleado"}
+      ]
+    },
+    {
+      "id": 10,
+      "nombre": "Punta Arenas",
+      "tempMax": 28,
+      "tempMin": 17,
+      "estadoActual": "Caluroso",
+      "pronosticoSemanal": [
+        {"dia": "Lunes", "min": 15, "max": 25, "estado": "Soleado"},
+        {"dia": "Martes", "min": 12, "max": 20, "estado": "Lluvias ligeras"},
+        {"dia": "Miércoles", "min": 14, "max": 22, "estado": "Parcialmente nublado"},
+        {"dia": "Jueves", "min": 11, "max": 18, "estado": "Tormentas"},
+        {"dia": "Viernes", "min": 13, "max": 21, "estado": "Nublado"},
+        {"dia": "Sábado", "min": 17, "max": 28, "estado": "Caluroso"},
+        {"dia": "Domingo", "min": 16, "max": 24, "estado": "Parcialmente soleado"}
+      ]
+    }
+  ]
+}
